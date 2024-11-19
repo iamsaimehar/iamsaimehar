@@ -1,3 +1,6 @@
+> [!NOTE]
+> I am available for hire, whether you need assistance with an existing project or are building a team for a startup.
+
 # 💫 About Me:
 Hi! 👋 I'm Sai, an EnTC student at PCCoE Pune.<br>- Skilled in Python, JavaScript, C, and more.<br>- From project leadership to SEO, I'm ready to collaborate.<br>Let's connect and create something awesome together!
 
