@@ -7,6 +7,4 @@ Hi! 👋 I'm Sai, an EnTC student at PCCoE Pune.<br>- Skilled in Python, JavaScr
 
 # 💻 Tech Stack:
 > Releasing soon (Rebuilding)...
-
 ---
-[![](https://visitcount.itsvg.in/api?id=iamsaimehar&icon=0&color=0)](https://visitcount.itsvg.in)
